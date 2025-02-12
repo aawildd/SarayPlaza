@@ -538,11 +538,6 @@ button:hover {
         max-width: 80%;
         max-height: 80%;
     }
-    
-  
-    
-
-
 
     /* İletişim Bölümü */
     .map-container {
@@ -819,12 +814,12 @@ button.next {
 }
 
 .instagram {
-    font-size: 3rem;
+    font-size: 2rem;
     background: #e4405f; 
 }
 
 .youtube {
-    font-size: 3rem;
+    font-size: 2rem;
     background: #bb0000;
 }
 
